@@ -58,14 +58,14 @@
   <AIResearcher94.titleShort>Pesquisador</AIResearcher94.titleShort>
   
   <!-- EN: [PAWN_nameDef] was a space trucker working for Arcknight Industries when [PAWN_pronoun] killed [PAWN_possessive] wife and daughter in a crash.\n\n[PAWN_possessive] body was repaired with an experimental nano-genetic therapy. Now [PAWN_possessive] muscles continually regenerate and harden, and every movement tears the tissue anew. [PAWN_pronoun] bears the pain in silence. -->
-  <AlcoholicTrucker93.description>[PAWN_nameDef] era um caminhoneiro espacial trabalhando para a Industrias Arcknight quando [PAWN_pronoun] matou sua esposa e filha em um acidente.\n\nSeu corpo foi reparado com uma terapia nano-genética experimental. Agora seus músculos continuamente se regeneram e endurecerem, e cada movimento rasga o tecido de novo. [PAWN_pronoun] suporta a dor em silêncio.</AlcoholicTrucker93.description>
+  <AlcoholicTrucker93.description>[PAWN_nameDef] era um caminhoneiro espacial trabalhando para a Industrias Arcknight quando [PAWN_pronoun] matou sua esposa e filha em um acidente.\n\nSeu corpo foi reparado com uma terapia nano-genética experimental. Agora seus músculos continuamente se regeneram e endurecem, e cada movimento rasga o tecido de novo. [PAWN_pronoun] suporta a dor em silêncio.</AlcoholicTrucker93.description>
   <!-- EN: alcoholic trucker -->
   <AlcoholicTrucker93.title>Caminhoneiro alcoólico</AlcoholicTrucker93.title>
   <!-- EN: alcoholic -->
   <AlcoholicTrucker93.titleShort>Alcoólico</AlcoholicTrucker93.titleShort>
   
   <!-- EN: After being abandoned on a special operation, [PAWN_nameDef] swore vengeance upon the state. [PAWN_pronoun] formed an anarchist group dedicated to bringing down coreworld governments.\n\nAfter too many close calls, and too few successes, [PAWN_nameDef] fled to the outer rim. -->
-  <AnarchistRebel77.description>Depois de ser abandonado em uma operação especial, [PAWN_nameDef] jurou vingança ao Estado. [PAWN_pronoun] formou um grupo anarquista dedicado a derrubar os principais governos do mundo.\n\nDepois de muitos telefonemas e muitos fracassos, [PAWN_nameDef] fugiu para outra parte da galáxia.</AnarchistRebel77.description>
+  <AnarchistRebel77.description>Depois de ser abandonado em uma operação especial, [PAWN_nameDef] jurou vingança ao Estado. [PAWN_pronoun] formou um grupo anarquista dedicado a derrubar os principais governos do mundo.\n\nDepois de situações de risco demais, e sucessos de menos, [PAWN_nameDef] fugiu para outra parte da galáxia.</AnarchistRebel77.description>
   <!-- EN: anarchist rebel -->
   <AnarchistRebel77.title>Rebelde anarquista</AnarchistRebel77.title>
   <!-- EN: anarchist -->
@@ -79,14 +79,14 @@
   <Archaeologist85.titleShort>Explorador</Archaeologist85.titleShort>
   
   <!-- EN: [PAWN_nameDef] researched archotech intelligences.\n\nStudying a mysterious archotechnological object from orbit, [PAWN_pronoun] became convinced that it was communicating directly with [PAWN_objective]. Eventually [PAWN_possessive] colleagues caught [PAWN_objective] transmitting secret information directed towards the dark sphere, and he was forced to flee. -->
-  <ArchotechSpy75.description>[PAWN_nameDef] era um pesquisador cibernético. Ao estudar em um mundo transcendido, [PAWN_pronoun] se envolveu demais com seus assuntos. Ao longo do tempo, o núcleo da máquina arquotécnica recrutou os serviços [PAWN_objective] como uma IA espiã.\n\nQuando [PAWN_pronoun] mais tarde se rebelou contra seu mestre não-humano, [PAWN_pronoun] enviou mecanoides através do espaço para caçar-lo.</ArchotechSpy75.description>
+  <ArchotechSpy75.description>[PAWN_nameDef] pesquisou inteligências arquotécnicas.\n\nEstudando um misterioso objeto arquotecnológico em órbita, [PAWN_pronoun] se convenceu de que ele estava se comunicando diretamente com [PAWN_objective]. Eventualmente, seus colegas pegaram [PAWN_objective] transmitindo informações secretas direcionadas à esfera escura, e [PAWN_pronoun] foi forçado a fugir.</ArchotechSpy75.description>
   <!-- EN: archotech researcher -->
   <ArchotechSpy75.title>Espião arquotécnico</ArchotechSpy75.title>
   <!-- EN: researcher -->
   <ArchotechSpy75.titleShort>IA Espiã</ArchotechSpy75.titleShort>
   
   <!-- EN: [PAWN_nameDef] joined the army as a worker and spent most of [PAWN_possessive] time cooking and repairing. While [PAWN_pronoun] was stationed on a dangerous planet, [PAWN_pronoun] underwent basic shooting and survival training. -->
-  <ArmyCook0.description>[PAWN_nameDef] entrou para o exército e passou a maior parte do tempo cozinhando e trabalhando com reparos. Enquanto [PAWN_pronoun] estava em um planeta perigoso, [PAWN_pronoun] foi submetido à treinamento básico de tiro e sobrevivência.</ArmyCook0.description>
+  <ArmyCook0.description>[PAWN_nameDef] entrou para o exército e passou a maior parte do tempo cozinhando e trabalhando com reparos. Enquanto [PAWN_pronoun] estava em um planeta perigoso, [PAWN_pronoun] foi submetido a treinamento básico de tiro e sobrevivência.</ArmyCook0.description>
   <!-- EN: army cook -->
   <ArmyCook0.title>Cozinheiro do exército</ArmyCook0.title>
   <!-- EN: cook -->
@@ -114,7 +114,7 @@
   <Aromatherapist80.titleShort>Terapeuta</Aromatherapist80.titleShort>
   
   <!-- EN: [PAWN_nameDef] became depressed and lost interest in life. [PAWN_pronoun] traveled from planet to planet, searching for psychic artifacts amid mechanoid ruins in the hope that they would cure the pain in [PAWN_possessive] soul.\n\nA steady trigger finger and careful planning kept [PAWN_nameDef] alive. -->
-  <ArtifactHunter48.description>[PAWN_nameDef] ficou deprimido e perdeu o interesse pela vida. [PAWN_pronoun] viajou de planeta em planeta, procurando por artefatos psíquicos em meio a ruínas de mecanoides em uma tentativa de curar a dor na de sua alma.\n\nUm dedo firme no gatilho e um planejamento cuidadoso mantiveram [PAWN_nameDef] vivo.</ArtifactHunter48.description>
+  <ArtifactHunter48.description>[PAWN_nameDef] ficou deprimido e perdeu o interesse pela vida. [PAWN_pronoun] viajou de planeta em planeta, procurando por artefatos psíquicos em meio a ruínas de mecanoides em uma tentativa de curar a dor em sua alma.\n\nUm dedo firme no gatilho e um planejamento cuidadoso mantiveram [PAWN_nameDef] vivo.</ArtifactHunter48.description>
   <!-- EN: artifact hunter -->
   <ArtifactHunter48.title>Caçador de artefatos</ArtifactHunter48.title>
   <!-- EN: artifacter -->
@@ -135,7 +135,7 @@
   <ArtStudent79.titleShort>Artista</ArtStudent79.titleShort>
   
   <!-- EN: [PAWN_nameDef] was specially trained as an operative to be used for high-risk assassinations. [PAWN_possessive] skill with a rifle was unrivalled.\n\n[PAWN_pronoun] was eventually betrayed by [PAWN_possessive] superiors when a target found out about the hit and offered to fund their future projects. [PAWN_nameDef] swore to never trust anyone again. -->
-  <Assassin7.description>[PAWN_nameDef] foi especialmente treinado como um operativo para ser usado para assassinatos de alto risco. Sua habilidade com um fuzil era incomparável.\n\n[PAWN_pronoun] foi eventualmente traído por seus superiores ,quando um alvo descobriu sobre o sucesso e ofereceu para financiar seus projetos futuros. [PAWN_nameDef] jurou nunca mais confiar em ninguém.</Assassin7.description>
+  <Assassin7.description>[PAWN_nameDef] foi especialmente treinado como um operativo para ser usado para assassinatos de alto risco. Sua habilidade com um fuzil era incomparável.\n\n[PAWN_pronoun] foi eventualmente traído por seus superiores quando um alvo descobriu sobre o contrato e ofereceu para financiar seus projetos futuros. [PAWN_nameDef] jurou nunca mais confiar em ninguém.</Assassin7.description>
   <!-- EN: assassin -->
   <Assassin7.title>Assassino</Assassin7.title>
   <!-- EN: assassin -->
@@ -144,12 +144,12 @@
   <!-- EN: [PAWN_nameDef] was an infantryman. When [PAWN_pronoun] was informed of [PAWN_possessive] assignment to the Xennoa-Zartza War, [PAWN_pronoun] decided [PAWN_pronoun] did not want to be a soldier. [PAWN_pronoun] was able to escape via military spacejet. -->
   <AWOLSoldier49.description>[PAWN_nameDef] era um soldado de infantaria.\n\nQuando [PAWN_pronoun] foi informado de sua atribuição para a Guerra de Xennoa-Zartza, [PAWN_pronoun] decidiu que não queria ser um soldado. [PAWN_pronoun] foi capaz de escapar via jato espacial militar.</AWOLSoldier49.description>
   <!-- EN: AWOL soldier -->
-  <AWOLSoldier49.title>Soldado ASLO</AWOLSoldier49.title>
+  <AWOLSoldier49.title>Soldado desertor</AWOLSoldier49.title>
   <!-- EN: soldier -->
   <AWOLSoldier49.titleShort>Soldado</AWOLSoldier49.titleShort>
   
   <!-- EN: [PAWN_nameDef] rose up the ranks of the crime organization, eventually becoming the leader of one of their most remote cells of bandits. [PAWN_possessive] dog Rest never left [PAWN_possessive] side. -->
-  <BanditLeader74.description>[PAWN_nameDef] subiu na hierarquia da organização criminosa, acabou se tornando líder de uma de seus mais remotos grupos de bandidos. Seu cão Rest nunca saiu do seu lado.</BanditLeader74.description>
+  <BanditLeader74.description>[PAWN_nameDef] subiu na hierarquia da organização criminosa, acabou se tornando líder de um de seus mais remotos grupos de bandidos. Seu cão Rest nunca saiu do seu lado.</BanditLeader74.description>
   <!-- EN: bandit leader -->
   <BanditLeader74.title>Líder bandido</BanditLeader74.title>
   <!-- EN: bandit -->

@@ -12,7 +12,7 @@
   <DryThunderstorm.description>As trovoadas secas são perigosas porque os relâmpagos podem iniciar incêndios e não há chuva para apagá-los.</DryThunderstorm.description>
   
   <!-- EN: fog -->
-  <Fog.label>névoa</Fog.label>
+  <Fog.label>nevoeiro</Fog.label>
   <!-- EN: Fog reduces the accuracy of ranged weapons. -->
   <Fog.description>O nevoeiro reduz a precisão das armas de longo alcance.</Fog.description>
   
