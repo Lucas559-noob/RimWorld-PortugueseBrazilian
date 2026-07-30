@@ -4,11 +4,11 @@
   <!-- EN: ratty apparel -->
   <ApparelDamaged.stages.ratty_apparel.label>vestindo roupas desgastadas</ApparelDamaged.stages.ratty_apparel.label>
   <!-- EN: The holes in my outfit are annoyingly large. Can't I get something new to wear? -->
-  <ApparelDamaged.stages.ratty_apparel.description>O visual da minha roupa está bem ruim. Eu não posso ter algo decente para vestir?</ApparelDamaged.stages.ratty_apparel.description>
+  <ApparelDamaged.stages.ratty_apparel.description>Os buracos na minha roupa estão irritantemente grandes. Não posso conseguir algo novo para vestir?</ApparelDamaged.stages.ratty_apparel.description>
   <!-- EN: tattered apparel -->
   <ApparelDamaged.stages.tattered_apparel.label>vestindo roupas rasgadas</ApparelDamaged.stages.tattered_apparel.label>
   <!-- EN: This thing looks like it's about to fall apart. Can't I wear something that doesn't belong in a trash heap? -->
-  <ApparelDamaged.stages.tattered_apparel.description>Estou usando um pedaço rasgado de lixo. Eu não posso ter algo decente para vestir?</ApparelDamaged.stages.tattered_apparel.description>
+  <ApparelDamaged.stages.tattered_apparel.description>Esta coisa parece que vai se despedaçar. Não posso vestir algo que não pertença a uma pilha de lixo?</ApparelDamaged.stages.tattered_apparel.description>
   
   <!-- EN: tainted {0} -->
   <DeadMansApparel.stages.tainted.label>{0} de defunto</DeadMansApparel.stages.tainted.label>
