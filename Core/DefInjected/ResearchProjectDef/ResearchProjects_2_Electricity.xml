@@ -252,7 +252,7 @@
   <!-- EN: gunsmithing -->
   <Gunsmithing.label>armas de fogo</Gunsmithing.label>
   <!-- EN: Craft simple manually-operated guns like revolvers, pump shotguns, bolt-action rifles, and incendiary launchers. -->
-  <Gunsmithing.description>Crie armas simples, operadas manualmente, como revólveres, escopetas de bomba, rifles de ferrolho e lançadores incendiários.</Gunsmithing.description>
+  <Gunsmithing.description>Crie armas simples, operadas manualmente, como revólveres, espingardas de bombeamento, rifles de ferrolho e lançadores incendiários.</Gunsmithing.description>
   <!-- EN:
     <li>subject->simple firearms</li>
     <li>subject_story->built a unique 12-shot revolver and won shoot-out after shoot-out</li>

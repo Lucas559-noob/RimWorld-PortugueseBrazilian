@@ -47,9 +47,9 @@
   <DamageTaken.description>A quantidade de dano que eu recebi.</DamageTaken.description>
   
   <!-- EN: fires extinguished -->
-  <FiresExtinguished.label>incêndios apagados</FiresExtinguished.label>
+  <FiresExtinguished.label>focos de incêndio apagados</FiresExtinguished.label>
   <!-- EN: The number of fires I have extinguished. -->
-  <FiresExtinguished.description>O número de fogos que eu apaguei</FiresExtinguished.description>
+  <FiresExtinguished.description>O número de focos de incêndio que eu apaguei</FiresExtinguished.description>
   
   <!-- EN: headshots -->
   <Headshots.label>tiros na cabeça</Headshots.label>

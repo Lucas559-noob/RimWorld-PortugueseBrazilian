@@ -34,7 +34,7 @@
   <!-- EN: straw matting -->
   <StrawMatting.label>esteira de palha</StrawMatting.label>
   <!-- EN: Rough straw matting for use in animal barns. It is cheap and accepts very little filth. -->
-  <StrawMatting.description>Esteira de palha áspera para uso em celeiros. É barata e retém muito pouca sujeira.</StrawMatting.description>
+  <StrawMatting.description>Esteira de palha áspera para uso em celeiros. É barata e gera muito pouca sujeira.</StrawMatting.description>
   
   <!-- EN: wood floor -->
   <WoodPlankFloor.label>piso de madeira</WoodPlankFloor.label>
