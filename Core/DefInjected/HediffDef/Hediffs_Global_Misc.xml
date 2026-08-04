@@ -30,7 +30,7 @@
   <!-- EN: brain shock -->
   <BrainShock.label>choque cerebral</BrainShock.label>
   <!-- EN: After-effects of an electrical shock to the brain. This is generally cause by feedback from brain implants hit by EMP pulses. -->
-  <BrainShock.description>Efeitos posteriores de um choque elétrico no cérebro. Isso geralmente é causado pelo retorno de implantes cerebrais atingidos por pulsos PEM.</BrainShock.description>
+  <BrainShock.description>Efeitos posteriores de um choque elétrico no cérebro. Isso geralmente é causado pela sobrecarga de implantes cerebrais atingidos por pulsos EMP.</BrainShock.description>
   <!-- EN: a brain shock -->
   <BrainShock.labelNoun>um choque cerebral</BrainShock.labelNoun>
   

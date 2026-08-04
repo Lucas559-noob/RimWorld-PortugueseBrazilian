@@ -401,7 +401,7 @@
     <li>imageD->e [TRADER_nameFull] comprando [PRISONER_nameFull] de [SELLER_nameFull] [circumstance_group]</li>
     <li>imageD->e [SELLER_nameFull] vendendo [PRISONER_nameFull] para [TRADER_nameFull] [circumstance_group]</li>
     <li>circumstance_phrase->enquanto os outros colonos observam em desaprovação</li>
-    <li>circumstance_phrase->enquanto [SELLER_nameDef] conta o dinheiro de [TRADER_nameDef]</li>
+    <li>circumstance_phrase->enquanto [SELLER_nameDef] conta o seu dinheiro</li>
     <li>circumstance_phrase->enquanto [PRISONER_nameDef] murmura lamentosamente</li>
     <li>desc_sentence->[TRADER_nameDef] está sorrindo diabolicamente.</li>
     <li>desc_sentence->[SELLER_nameDef] está rindo loucamente.</li>

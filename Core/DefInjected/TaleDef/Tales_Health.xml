@@ -247,12 +247,12 @@
     <li>tale_nounD->e [PAWN_nameDef] pegando hipotermia</li>
     <li>image->[PAWN_nameFull] caminhando pela neve [circumstance_group]</li>
     <li>image->[PAWN_nameFull] encolhido(a) ao lado de um(a) [TerrainFeature] [circumstance_group]</li>
-    <li>image->[PAWN_nameFull] procurando por um(a) quente(a) [Apparel] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] procurando por um [Apparel] quente [circumstance_group]</li>
     <li>image->[PAWN_nameFull] agachado(a) ao lado do fogo [circumstance_group]</li>
     <li>image->[PAWN_nameFull] tentando acender uma fogueira [circumstance_group]</li>
     <li>imageD->e [PAWN_nameFull] caminhando pela neve [circumstance_group]</li>
     <li>imageD->e [PAWN_nameFull] encolhido(a) ao lado de um(a) [TerrainFeature] [circumstance_group]</li>
-    <li>imageD->e [PAWN_nameFull] procurando por um(a) quente(a) [Apparel] [circumstance_group]</li>
+    <li>imageD->e [PAWN_nameFull] procurando por um [Apparel] quente [circumstance_group]</li>
     <li>imageD->e [PAWN_nameFull] agachado(a) ao lado do fogo [circumstance_group]</li>
     <li>imageD->e [PAWN_nameFull] tentando acender uma fogueira [circumstance_group]</li>
     <li>circumstance_phrase->enquanto seu rosto lentamente fica azul</li>
@@ -358,10 +358,10 @@
     <li>tale_noun->a [KILLER_nameDef] [wound_name_present] [VICTIM_nameDef] com um(a) [WEAPON_label]</li>
     <li>tale_nounD->e [KILLER_nameDef] [wound_name_present] [VICTIM_nameDef]</li>
     <li>tale_nounD->e [KILLER_nameDef] [wound_name_present] [VICTIM_nameDef] com um(a) [WEAPON_label]</li>
-    <li>image->[KILLER_nameFull] [cap_removal] a [CAPACITY_label] de [VICTIM_nameFull] [with_weapon_optional]</li>
-    <li>image->[KILLER_nameFull] [wound_name_present] [VICTIM_nameFull] e [cap_removal] seu(ua) [CAPACITY_label] [with_weapon_optional]</li>
+    <li>image->[KILLER_nameFull] [cap_removal] a capacidade de [CAPACITY_label] de [VICTIM_nameFull] [with_weapon_optional]</li>
+    <li>image->[KILLER_nameFull] [wound_name_present] [VICTIM_nameFull] e [cap_removal] a capacidade de [CAPACITY_label] [with_weapon_optional]</li>
     <li>imageD->e [KILLER_nameFull] [cap_removal] a capacidade de [VICTIM_nameFull] de [CAPACITY_label] [with_weapon_optional]</li>
-    <li>imageD->e [KILLER_nameFull] [wound_name_present] [VICTIM_nameFull] e [cap_removal] seu(ua) [CAPACITY_label] [with_weapon_optional]</li>
+    <li>imageD->e [KILLER_nameFull] [wound_name_present] [VICTIM_nameFull] e [cap_removal] a capacidade de [CAPACITY_label] [with_weapon_optional]</li>
     <li>cap_removal->destruindo</li>
     <li>cap_removal->eliminando</li>
     <li>cap_removal->obliterando</li>
