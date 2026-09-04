@@ -73,7 +73,7 @@
   -->
   <BiofuelRefining.generalRules.rulesStrings>
     <li>subject->biocombustível</li>
-    <li>subject_story->ficou aprisionad{PAWN_gender ? o : a} quando uma nave geracional perdeu energia. [ANYPAWN_pronoun] usou o conhecimento [ANYPAWN_possessive] de refinação para transformar restos humanos em biocombustível e reiniciar os motores</li>
+    <li>subject_story->ficou aprisionad{PAWN_gender ? o : a} quando uma nave geracional perdeu energia. [ANYPAWN_pronoun] usou seu conhecimento em refino para transformar restos humanos em biocombustível e reiniciar os motores</li>
     <li>subject_story->usou biorefinarias automatizadas para iniciar o longo processo de terraformagem em um mundo gélido</li>
     <li>subject_story->abriu uma destilaria para produzir cachaça, mas ao perceber que o produto final era intragável resolveu vender como combustível químico</li>
     <li>subject_gerund->refinando biocombustível</li>
