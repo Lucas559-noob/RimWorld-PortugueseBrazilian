@@ -158,7 +158,7 @@
   <ManTurret.reportString>operando torreta.</ManTurret.reportString>
   
   <!-- EN: helping TargetA. -->
-  <OfferHelp.reportString>ajudando AlvoA.</OfferHelp.reportString>
+  <OfferHelp.reportString>ajudando TargetA.</OfferHelp.reportString>
   
   <!-- EN: opening TargetA. -->
   <Open.reportString>abrindo TargetA.</Open.reportString>
