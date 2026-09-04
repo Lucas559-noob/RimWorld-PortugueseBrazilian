@@ -195,7 +195,7 @@
   -->
   <LongBlades.generalRules.rulesStrings>
     <li>subject->armamento medieval</li>
-     <li>subject_story->cavalgou com a Quinta Cavalaria do Betaduque durante a conquista do setor</li>
+    <li>subject_story->cavalgou com a Quinta Cavalaria do Betaduque durante a conquista do setor</li>
     <li>subject_story->foi escravizad{PAWN_gender ? o : a} e trabalhou à força em uma forja sob uma arena de um planeta na idade do ferro</li>
     <li>subject_story->treinou hoplitas em um guerromundo para que usassem melhor o alcance de suas armas</li>
     <li>subject_gerund->forjando armas medievais</li>
