@@ -139,7 +139,7 @@
     <li>subject->síntese de drogas</li>
     <li>subject_story->trabalhou em um laboratório que ficava em um asteroide às margens do espaço habitado</li>
     <li>subject_story->aprendeu a fabricar drogas com reagentes químicos reciclados, o que levou a muitos anos de prisão</li>
-     <li>subject_story->trabalhou como químico, mas iniciou um comércio paralelo de drogas ilegais</li>
+    <li>subject_story->trabalhou como químico, mas iniciou um comércio paralelo de drogas ilegais</li>
     <li>subject_gerund->construindo laboratórios de drogas</li>
     <li>subject_gerund->produzindo drogas</li>
   </DrugProduction.generalRules.rulesStrings>
