@@ -161,7 +161,7 @@
   <!-- EN: undergrounder -->
   <Undergrounder.degreeDatas.undergrounder.label>subterrâneo</Undergrounder.degreeDatas.undergrounder.label>
   <!-- EN: {PAWN_nameDef} has no need to experience the outdoors or light. {PAWN_pronoun} will never feel cooped up or get cabin fever and is not bothered by darkness. However, {PAWN_nameDef} will be unhappy while outdoors. -->
-  <Undergrounder.degreeDatas.undergrounder.description>{PAWN_nameDef} não precisa experimentar o ar livre ou a luz. {PAWN_pronoun} nunca se sentirá confinado e nunca terá febre de confinamento e não se incomodará com a escuridão. No entanto, {PAWN_nameDef} ficará infeliz ao ar livre.</Undergrounder.degreeDatas.undergrounder.description>
+  <Undergrounder.degreeDatas.undergrounder.description>{PAWN_nameDef} não precisa experimentar o ar livre ou a luz. {PAWN_pronoun} nunca se sentirá confinado e nunca terá "febre na cabine" e não se incomodará com a escuridão. No entanto, {PAWN_nameDef} ficará infeliz ao ar livre.</Undergrounder.degreeDatas.undergrounder.description>
   
   <!-- EN: wimp -->
   <Wimp.degreeDatas.wimp.label>covarde</Wimp.degreeDatas.wimp.label>

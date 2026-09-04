@@ -124,7 +124,7 @@
     <li>subject_story->construiu escaneadoras o suficiente para revelar a geologia do planeta inteiro</li>
     <li>subject_story->usou uma escaneadora para descobrir o que os outros assentamentos estavam minerando e lucrou bastante através do comércio</li>
     <li>subject_story->minerou toda a jade do planeta para construir efígies religiosas</li>
-     <li>subject_gerund->construindo escaneadoras de minerais de longo alcance</li>
+    <li>subject_gerund->construindo escaneadoras de minerais de longo alcance</li>
   </LongRangeMineralScanner.generalRules.rulesStrings>
   
   <!-- EN: medicine production -->
@@ -145,7 +145,7 @@
     <li>subject_story->estudou os medicamentos dos urbemundos com o objetivo de tornar esse conhecimento mais difundido</li>
     <li>subject_story->ficou intrigad{PAWN_gender ? o : a} com as origens da neutroamina e resolveu investigar mais a fundo</li>
     <li>subject_story->tomou à força os recursos de um traficante de drogas e os usou para produzir medicamentos úteis</li>
-     <li>subject_gerund->produzindo medicamentos de tecnologia industrial</li>
+    <li>subject_gerund->produzindo medicamentos de tecnologia industrial</li>
   </MedicineProduction.generalRules.rulesStrings>
   
   <!-- EN: microelectronics -->

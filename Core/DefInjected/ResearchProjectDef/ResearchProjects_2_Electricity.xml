@@ -246,7 +246,7 @@
     <li>subject_story->utilizou o calor de um vulcão adormecido para alimentar a rede local de eletricidade</li>
     <li>subject_story->discutiu com a população local, que queria preservar as paisagens dos gêiseres ao invés de os utilizar para produção de energia</li>
     <li>subject_gerund->utilizando energia geotérmica</li>
-     <li>subject_gerund->construindo usinas geotérmicas</li>
+    <li>subject_gerund->construindo usinas geotérmicas</li>
   </GeothermalPower.generalRules.rulesStrings>
   
   <!-- EN: gunsmithing -->
