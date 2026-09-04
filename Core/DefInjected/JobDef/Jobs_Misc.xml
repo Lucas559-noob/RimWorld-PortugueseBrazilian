@@ -134,7 +134,7 @@
   <Ingest.reportString>consumindo TargetA.</Ingest.reportString>
   
   <!-- EN: installing TargetB in TargetA. -->
-  <InstallImplant.reportString>insistindo TargetB em TargetA.</InstallImplant.reportString>
+  <InstallImplant.reportString>instalando TargetB em TargetA.</InstallImplant.reportString>
   
   <!-- EN: insulting TargetA. -->
   <Insult.reportString>insultando TargetA.</Insult.reportString>
