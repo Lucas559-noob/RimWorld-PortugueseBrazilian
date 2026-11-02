@@ -304,7 +304,7 @@
   <Hydroponics.generalRules.rulesStrings>
     <li>subject->hidroponia</li>
     <li>subject_story->se juntou à tripulação de uma nave geracional para trabalhar como especialista em cultivos</li>
-     <li>subject_story->abriu uma instalação industrial de hidroponia para alimentar os famintos</li>
+    <li>subject_story->abriu uma instalação industrial de hidroponia para alimentar os famintos</li>
     <li>subject_story->viajou por vários lugares, ensinando a diversos novos colonos técnicas para crescimento artificial de plantas</li>
     <li>subject_gerund->construindo aparelhos de hidroponia</li>
     <li>subject_gerund->cultivando plantas em locais fechados</li>
