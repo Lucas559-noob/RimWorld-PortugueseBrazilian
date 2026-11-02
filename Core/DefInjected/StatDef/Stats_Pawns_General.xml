@@ -27,7 +27,7 @@
   <!-- EN: min comfortable temperature -->
   <ComfyTemperatureMin.label>Temperatura mínima confortável</ComfyTemperatureMin.label>
   <!-- EN: Below this temperature, characters will be unhappy.\n\nSignificantly below this temperature, they will develop hypothermia and frostbite and eventually die. -->
-  <ComfyTemperatureMin.description>Abaixo desta temperatura, os personagens vão ficar infelizes. Significativamente abaixo desta temperatura, eles desenvolverão hipotermia e queimaduras por frio e eventualmente morrerão.</ComfyTemperatureMin.description>
+  <ComfyTemperatureMin.description>Abaixo desta temperatura, os personagens ficarão infelizes. Significativamente abaixo desta temperatura, eles desenvolverão hipotermia e queimaduras por frio e eventualmente morrerão.</ComfyTemperatureMin.description>
   
   <!-- EN: crawl speed -->
   <CrawlSpeed.label>velocidade de rastejamento</CrawlSpeed.label>
