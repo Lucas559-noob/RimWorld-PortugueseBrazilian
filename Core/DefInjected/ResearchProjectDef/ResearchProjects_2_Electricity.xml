@@ -469,7 +469,7 @@
     <li>subject->painéis solares</li>
     <li>subject->energia solar</li>
     <li>subject_story->estabeleceu um campo de produção de energia solar multi-espectro</li>
-     <li>subject_story->estudou maneiras de maximizar o percentual de energia solar capturada</li>
+    <li>subject_story->estudou maneiras de maximizar o percentual de energia solar capturada</li>
     <li>subject_story->partiu em um mergulhador solar para fazer um voo rasante na fotosfera de uma estrela</li>
     <li>subject_gerund->construindo painéis solares</li>
   </SolarPanels.generalRules.rulesStrings>
