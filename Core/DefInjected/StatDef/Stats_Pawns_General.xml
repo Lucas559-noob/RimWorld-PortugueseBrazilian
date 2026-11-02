@@ -122,7 +122,7 @@
   <!-- EN: mental break threshold -->
   <MentalBreakThreshold.label>limite de colapso mental</MentalBreakThreshold.label>
   <!-- EN: As long as someone's mood is below this level, they are in danger of having a mental break.\n\nThe severity of the mental break will depend on how far below the threshold they are. -->
-  <MentalBreakThreshold.description>Enquanto o humor de alguém estiver abaixo deste nível, o personagem corre o risco de ter um colapso mental.\n\nA gravidade do colapso mental dependerá de quão abaixo do limite ele estiver.</MentalBreakThreshold.description>
+  <MentalBreakThreshold.description>Enquanto o humor de alguém estiver abaixo deste nível, o personagem corre o risco de ter um colapso mental.\n\nA gravidade do colapso mental dependerá de quão abaixo do limite estiver.</MentalBreakThreshold.description>
   
   <!-- EN: minimum handling skill -->
   <MinimumHandlingSkill.label>habilidade mínima de domador</MinimumHandlingSkill.label>
