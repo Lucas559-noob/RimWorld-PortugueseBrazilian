@@ -33,7 +33,7 @@
     <li>imageD->e [PAWN_nameFull] desviando de uma pedra gigantesca caindo, [circumstance_group]</li>
     <li>circumstance_phrase->desaparecendo atrás de uma cortina de poeira</li>
     <li>circumstance_phrase->evitando sua pulverização</li>
-    <li>circumstance_phrase->que impacta com força incrível</li>
+    <li>circumstance_phrase->evitando o impacto mortal</li>
     <li>desc_sentence->[PAWN_pronoun] está suando.</li>
     <li>desc_sentence->[PAWN_pronoun] parece estar aterrorizado(a).</li>
     <li>desc_sentence->[PAWN_pronoun] está sangrando.</li>
