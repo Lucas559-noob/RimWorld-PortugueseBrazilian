@@ -247,7 +247,7 @@
     <li>tale_nounD->e [PAWN_nameDef] pegando hipotermia</li>
     <li>image->[PAWN_nameFull] caminhando pela neve [circumstance_group]</li>
     <li>image->[PAWN_nameFull] encolhido(a) ao lado de um(a) [TerrainFeature] [circumstance_group]</li>
-    <li>image->[PAWN_nameFull] procurando por um [Apparel] quente [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] procurando por um(a) caloroso(a) [Apparel] [circumstance_group]</li>
     <li>image->[PAWN_nameFull] agachado(a) ao lado do fogo [circumstance_group]</li>
     <li>image->[PAWN_nameFull] tentando acender uma fogueira [circumstance_group]</li>
     <li>imageD->e [PAWN_nameFull] caminhando pela neve [circumstance_group]</li>
