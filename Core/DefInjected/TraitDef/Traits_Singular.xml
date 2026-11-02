@@ -94,7 +94,7 @@
   <!-- EN: kind -->
   <Kind.degreeDatas.kind.label>gentil</Kind.degreeDatas.kind.label>
   <!-- EN: {PAWN_nameDef} is an exceptionally agreeable and giving person. {PAWN_pronoun} rarely insults others and will sometimes offer kind words to brighten the moods of those around {PAWN_objective}. {PAWN_pronoun} also never judges people by their appearance. {PAWN_possessive} agreeableness also makes {PAWN_objective} more likely to conform to prevailing opinions. -->
-  <Kind.degreeDatas.kind.description>{PAWN_nameDef} é uma pessoa excepcionalmente agradável e generosa. {PAWN_pronoun} raramente insulta os outros e às vezes oferece palavras amáveis para alegrar o humor das pessoas ao seu redor. {PAWN_pronoun} também nunca julga as pessoas por sua aparência. A amabilidade também faz com que {PAWN_objective} se conforme mais facilmente com opiniões dominantes.</Kind.degreeDatas.kind.description>
+  <Kind.degreeDatas.kind.description>{PAWN_nameDef} é uma pessoa excepcionalmente agradável e generosa. {PAWN_pronoun} raramente insulta os outros e às vezes oferece palavras amáveis para alegrar o humor das pessoas ao seu redor. {PAWN_pronoun} também nunca julga as pessoas por sua aparência. Sua gentileza também faz com que {PAWN_objective} se conforme mais facilmente com opiniões dominantes.</Kind.degreeDatas.kind.description>
   
   <!-- EN: masochist -->
   <Masochist.degreeDatas.masochist.label>masoquista</Masochist.degreeDatas.masochist.label>
