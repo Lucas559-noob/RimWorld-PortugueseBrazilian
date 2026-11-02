@@ -91,7 +91,7 @@
     <li>imageD->e [PAWN_nameFull] em pé, [circumstance_group]</li>
     <li>circumstance_phrase->com um olhar [AdjectiveBadass]</li>
     <li>circumstance_phrase->com um olhar [AdjectiveAngsty]</li>
-    <li>circumstance_phrase->rugindo de vitória</li>
+    <li>circumstance_phrase->bradando a vitória</li>
     <li>circumstance_phrase->coberto(a) de [Gore]</li>
     <li>desc_sentence->[Quantity_adjphrase] [Enemy]s escondem-se do ataque.</li>
     <li>desc_sentence->[Quantity_adjphrase] [Enemy]s fogem da área.</li>
